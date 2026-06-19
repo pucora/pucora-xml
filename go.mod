@@ -1,4 +1,4 @@
-module github.com/pucora/velonetics-xml/v2
+module github.com/pucora/pucora-xml/v2
 
 go 1.24.0
 

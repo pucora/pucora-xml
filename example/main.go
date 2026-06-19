@@ -10,7 +10,7 @@ import (
 	"github.com/pucora/lura/v2/proxy"
 	"github.com/pucora/lura/v2/router/gin"
 
-	xml "github.com/pucora/velonetics-xml/v2"
+	xml "github.com/pucora/pucora-xml/v2"
 )
 
 func main() {

@@ -5,7 +5,7 @@ Enable XML encoding in the [Lura Project](github.com/pucora/lura)
 
 ## Documentation
 
-For more details, check the auto-generated documentation: https://godoc.org/github.com/pucora/velonetics-xml
+For more details, check the auto-generated documentation: https://godoc.org/github.com/pucora/pucora-xml
 
 ## Using it
 
@@ -23,8 +23,8 @@ Go 1.8 is a requirement
 
 Running it as a common executable, logs are send to the stdOut and some options are available at the CLI
 
-	$ ./velonetics_xml_example
-	Usage of ./velonetics_xml_example:
+	$ ./pucora_xml_example
+	Usage of ./pucora_xml_example:
 	  -c string
 	    	Path to the configuration filename (default "/etc/pucora/configuration.json")
 	  -d	Enable the debug

@@ -5,7 +5,7 @@
 # binary and no external dependencies are needed to run the service.
 
 PUCORA_VERSION=$(shell git describe --always --long --dirty --tags)
-BIN_NAME=velonetics_xml_example_${PUCORA_VERSION}
+BIN_NAME=pucora_xml_example_${PUCORA_VERSION}
 
 all: deps build
 
