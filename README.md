@@ -1,11 +1,11 @@
-Velonetics XML
+Pucora XML
 ====
 
-Enable XML encoding in the [Lura Project](github.com/velonetics/lura)
+Enable XML encoding in the [Lura Project](github.com/pucora/lura)
 
 ## Documentation
 
-For more details, check the auto-generated documentation: https://godoc.org/github.com/velonetics/velonetics-xml
+For more details, check the auto-generated documentation: https://godoc.org/github.com/pucora/velonetics-xml
 
 ## Using it
 
@@ -26,7 +26,7 @@ Running it as a common executable, logs are send to the stdOut and some options 
 	$ ./velonetics_xml_example
 	Usage of ./velonetics_xml_example:
 	  -c string
-	    	Path to the configuration filename (default "/etc/velonetics/configuration.json")
+	    	Path to the configuration filename (default "/etc/pucora/configuration.json")
 	  -d	Enable the debug
 	  -p int
 	    	Port of the service

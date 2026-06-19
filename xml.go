@@ -4,7 +4,7 @@ import (
 	"io"
 
 	"github.com/clbanning/mxj/v2"
-	"github.com/velonetics/lura/v2/encoding"
+	"github.com/pucora/lura/v2/encoding"
 	"golang.org/x/net/html/charset"
 )
 
